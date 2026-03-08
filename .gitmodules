@@ -1,0 +1,3 @@
+[submodule "DevilutionX"]
+	path = DevilutionX
+	url = git@github.com:diasurgical/DevilutionX.git
